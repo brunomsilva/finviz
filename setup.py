@@ -6,7 +6,7 @@ setup(
         'finviz',
         'finviz.helper_functions'
     ],
-    version='1.3.4',
+    version='1.3.4-dev',
     license='MIT',
     description='Unofficial API for finviz.com',
     author='Mario Stoev',
